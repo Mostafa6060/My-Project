@@ -1,0 +1,1 @@
+console.log('this is good to learn something you love like programming for example')
